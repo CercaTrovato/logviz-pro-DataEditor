@@ -1,0 +1,5 @@
+{
+  "name": "LogViz Pro",
+  "description": "A comprehensive log visualization dashboard for deep learning training metrics, featuring automatic parsing, categorized charts, and high-quality image export.",
+  "requestFramePermissions": []
+}
